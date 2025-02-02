@@ -1,4 +1,4 @@
-
+# Fake_News_Detection_With_Explainable_AI_Using_Lime
 
 In today's digital age, the rapid expansion of online platforms has revolutionized how information is shared. While this has enhanced accessibility, it has also led to the widespread dissemination of misinformation, particularly fake news. The consequences of such misinformation can be significant, shaping public opinion, fueling social unrest, and even influencing critical decision-making processes.
 
